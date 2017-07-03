@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 /**
- * <p>功能描述</br> TODO</p>
+ * <p>功能描述</br> 跨域资源共享配置</p>
  *
  * @author jiangy19
  * @version v1.0

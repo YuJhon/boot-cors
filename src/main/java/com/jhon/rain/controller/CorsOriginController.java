@@ -3,8 +3,7 @@ package com.jhon.rain.controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * <p>功能描述</br> TODO</p>
- *
+ * <p>功能描述</br> 跨域测试控制器</p>
  * @author jiangy19
  * @version v1.0
  * @FileName CorsOriginController
